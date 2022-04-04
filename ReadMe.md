@@ -20,5 +20,6 @@ The structure of this folder is as follows:
 * data_plots : images from *BayesianNN.ipynb*
 * models : stored models of the CNNs, used back in *CNN_Flower.ipynb*
 
+IMPORTANT: The github does not contain the models neither the datasets (original and augmented ones) for that the drive file needs to be download. If the user only wants to see the output logs the github is fine. However, if the user intends to run the code it will need this data.
 
 *Note: In data_preparation, there is a dataset called less_aug which was only used in a beggining stage of the project and ended up not being used*
